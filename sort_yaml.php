@@ -16,6 +16,21 @@ usort($yaml['entries'], function($a, $b) {
     return $a['title'] <=> $b['title'];
 });
 
+$yaml['entries'] = array_map(function ($entry) {
+    $title    = $entry['title'];
+    $synonyms = $entry['synonyms'] ?? [];
+    $seasons  = $entry['seasons'] ?? [
+        'season' => 1,
+        'anilist-db' => null,
+    ];
+
+    return [
+        'title'    => $title,
+        'synonyms' => $synonyms,
+        'seasons'  => $seasons,
+    ];
+}, $yaml['entries']);
+
 $output = Yaml::dump($yaml, 5, 2);
 
 $output = preg_replace("/-\n +/m", '- ', $output);
