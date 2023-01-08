@@ -1,0 +1,17 @@
+{
+    "name": "ikari7789/plex-ani-sync-custom-mappings",
+    "require": {
+        "symfony/yaml": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ikari7789\\PlexAniSyncCustomMappings\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Miller",
+            "email": "ikari7789@yahoo.com"
+        }
+    ]
+}
