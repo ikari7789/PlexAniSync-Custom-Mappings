@@ -87,11 +87,13 @@ entries:
         anilist-id: 132526
 
   - title: 'Buddy Daddies'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 155907
 
   - title: COLORFUL
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 841
@@ -104,6 +106,7 @@ entries:
         anilist-id: 106893
 
   - title: CUE!
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 125682
@@ -174,11 +177,13 @@ entries:
         anilist-id: 114099
 
   - title: 'Deep Insanity THE LOST CHILD'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 136947
 
   - title: 'Do It Yourself!!'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 131516
@@ -195,6 +200,7 @@ entries:
         anilist-id: 131518
 
   - title: 'EDENS ZERO'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 119683
@@ -202,6 +208,7 @@ entries:
         anilist-id: 144932
 
   - title: 'Engage Kiss'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 146625
@@ -259,11 +266,13 @@ entries:
         anilist-id: 118376
 
   - title: LISTENERS
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 109856
 
   - title: 'LUPIN ZERO'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 155925
@@ -349,11 +358,13 @@ entries:
         anilist-id: 1210
 
   - title: NOBLESSE
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 116005
 
   - title: 'NieR:Automata Ver1.1a'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 145665
@@ -437,6 +448,7 @@ entries:
         anilist-id: 133844
 
   - title: 'One Room'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 97857
@@ -446,6 +458,7 @@ entries:
         anilist-id: 116147
 
   - title: REVENGER
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 155202
@@ -471,6 +484,7 @@ entries:
         anilist-id: 108987
 
   - title: 'SHAMAN KING (2021)'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 119675
@@ -493,21 +507,25 @@ entries:
         anilist-id: 8934
 
   - title: Steins;Gate
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 9253
 
   - title: 'THE GOD OF HIGH SCHOOL'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 116006
 
   - title: 'TRIGUN STAMPEDE'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 151040
 
   - title: 'Taishou Otome Otogibanashi'
+    synonyms: {  }
     seasons:
       - season: 1
         anilist-id: 127412
