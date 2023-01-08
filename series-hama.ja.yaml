@@ -2921,6 +2921,12 @@ entries:
       - season: 1
         anilist-id: 114085
 
+  # - title: 怪物王女
+  #   synonyms: {  }
+  #   seasons:
+  #     - season: 1
+  #       anilist-id: null
+
   - title: 怪病医ラムネ
     synonyms:
       - 'Kai Byoui Ramune'
