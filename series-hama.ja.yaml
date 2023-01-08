@@ -9,6 +9,15 @@ entries:
       - season: 2
         anilist-id: 127366
 
+  - title: 3月のライオン
+    synonyms:
+      - '3-gatsu no Lion'
+    seasons:
+      - season: 1
+        anilist-id: 21366
+      - season: 2
+        anilist-id: 98478
+
   - title: 4人はそれぞれウソをつく
     synonyms:
       - '4-Nin wa Sorezore Uso wo Tsuku'
@@ -68,14 +77,6 @@ entries:
       - season: 17
         anilist-id: 116674
 
-  - title: 'bpS バトルプログラマーシラセ'
-    synonyms:
-      - 'BPS: Battle Programmer Shirase'
-      - 'Battle Programmer Shirase'
-    seasons:
-      - season: 1
-        anilist-id: 579
-
   - title: 'BUILD DIVIDE -#000000-'
     synonyms:
       - Build-Divide
@@ -84,6 +85,11 @@ entries:
         anilist-id: 132525
       - season: 2
         anilist-id: 132526
+
+  - title: 'Buddy Daddies'
+    seasons:
+      - season: 1
+        anilist-id: 155907
 
   - title: COLORFUL
     seasons:
@@ -102,33 +108,12 @@ entries:
       - season: 1
         anilist-id: 125682
 
-  - title: 'Deep Insanity THE LOST CHILD'
-    seasons:
-      - season: 1
-        anilist-id: 136947
-
   - title: 'DIGIMON Ghost Game'
     synonyms:
       - 'Digimon Ghost Game'
     seasons:
       - season: 1
         anilist-id: 137309
-
-  - title: 'Do It Yourself!!'
-    seasons:
-      - season: 1
-        anilist-id: 131516
-
-  - title: Dr.STONE
-    synonyms:
-      - 'Dr. Stone'
-    seasons:
-      - season: 1
-        anilist-id: 105333
-      - season: 2
-        anilist-id: 113936
-      - season: 3
-        anilist-id: 131518
 
   - title: 'DRAGON BALL'
     synonyms:
@@ -187,6 +172,27 @@ entries:
     seasons:
       - season: 1
         anilist-id: 114099
+
+  - title: 'Deep Insanity THE LOST CHILD'
+    seasons:
+      - season: 1
+        anilist-id: 136947
+
+  - title: 'Do It Yourself!!'
+    seasons:
+      - season: 1
+        anilist-id: 131516
+
+  - title: Dr.STONE
+    synonyms:
+      - 'Dr. Stone'
+    seasons:
+      - season: 1
+        anilist-id: 105333
+      - season: 2
+        anilist-id: 113936
+      - season: 3
+        anilist-id: 131518
 
   - title: 'EDENS ZERO'
     seasons:
@@ -256,6 +262,11 @@ entries:
     seasons:
       - season: 1
         anilist-id: 109856
+
+  - title: 'LUPIN ZERO'
+    seasons:
+      - season: 1
+        anilist-id: 155925
 
   - title: 'Muv-Luv ALTERNATIVE'
     synonyms:
@@ -342,6 +353,11 @@ entries:
       - season: 1
         anilist-id: 116005
 
+  - title: 'NieR:Automata Ver1.1a'
+    seasons:
+      - season: 1
+        anilist-id: 145665
+
   - title: 'ODD TAXI'
     synonyms:
       - 'Odd Taxi'
@@ -407,15 +423,6 @@ entries:
       - season: 3
         anilist-id: 153800
 
-  - title: 'One Room'
-    seasons:
-      - season: 1
-        anilist-id: 97857
-      - season: 2
-        anilist-id: 100133
-      - season: 3
-        anilist-id: 116147
-
   - title: OVERLORD
     synonyms:
       - Overlord
@@ -429,55 +436,19 @@ entries:
       - season: 4
         anilist-id: 133844
 
-  - title: ポケットモンスター
-    synonyms:
-      - 'Pocket Monsters'
-      - Pokemon
+  - title: 'One Room'
     seasons:
       - season: 1
-        anilist-id: 527
+        anilist-id: 97857
       - season: 2
-        anilist-id: 527
+        anilist-id: 100133
       - season: 3
-        anilist-id: 527
-      - season: 4
-        anilist-id: 527
-      - season: 5
-        anilist-id: 527
-      - season: 6
-        anilist-id: 1564
-      - season: 7
-        anilist-id: 1564
-      - season: 8
-        anilist-id: 1564
-      - season: 9
-        anilist-id: 1564
-      - season: 10
-        anilist-id: 1565
-      - season: 11
-        anilist-id: 1565
-      - season: 12
-        anilist-id: 1565
-      - season: 13
-        anilist-id: 1565
-      - season: 14
-        anilist-id: 9107
-      - season: 15
-        anilist-id: 14093
-      - season: 15
-        anilist-id: 17115
-        start: 25
-      - season: 15
-        anilist-id: 17873
-        start: 39
-      - season: 16
-        anilist-id: 19291
-      - season: 17
-        anilist-id: 21356
-      - season: 18
-        anilist-id: 97634
-      - season: 19
-        anilist-id: 112153
+        anilist-id: 116147
+
+  - title: REVENGER
+    seasons:
+      - season: 1
+        anilist-id: 155202
 
   - title: 'Re:ゼロから始める異世界生活'
     synonyms:
@@ -526,15 +497,28 @@ entries:
       - season: 1
         anilist-id: 9253
 
+  - title: 'THE GOD OF HIGH SCHOOL'
+    seasons:
+      - season: 1
+        anilist-id: 116006
+
+  - title: 'TRIGUN STAMPEDE'
+    seasons:
+      - season: 1
+        anilist-id: 151040
+
   - title: 'Taishou Otome Otogibanashi'
     seasons:
       - season: 1
         anilist-id: 127412
 
-  - title: 'THE GOD OF HIGH SCHOOL'
+  - title: 'bpS バトルプログラマーシラセ'
+    synonyms:
+      - 'BPS: Battle Programmer Shirase'
+      - 'Battle Programmer Shirase'
     seasons:
       - season: 1
-        anilist-id: 116006
+        anilist-id: 579
 
   - title: 'tákt op.Destiny'
     synonyms:
@@ -620,6 +604,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 195
+
+  - title: お兄ちゃんはおしまい！
+    synonyms:
+      - 'Onii-chan wa Oshimai!'
+    seasons:
+      - season: 1
+        anilist-id: 147864
+
+  - title: お隣の天使様にいつの間にか駄目人間にされていた件
+    synonyms:
+      - 'Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken'
+    seasons:
+      - season: 1
+        anilist-id: 143338
 
   - title: かくしごと
     synonyms:
@@ -879,6 +877,13 @@ entries:
       - season: 1
         anilist-id: 104159
 
+  - title: アルスの巨獣
+    synonyms:
+      - 'Ars no Kyojuu'
+    seasons:
+      - season: 1
+        anilist-id: 155089
+
   - title: 'イジらないで, 長瀞さん'
     synonyms:
       - 'Ijiranaide, Nagatoro-san'
@@ -1070,6 +1075,13 @@ entries:
       - season: 1
         anilist-id: 342
 
+  - title: スパイ教室
+    synonyms:
+      - 'Spy Kyoushitsu'
+    seasons:
+      - season: 1
+        anilist-id: 146323
+
   - title: 'スライム倒して300年, 知らないうちにレベルMAXになってました'
     synonyms:
       - 'Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita'
@@ -1206,6 +1218,13 @@ entries:
         anilist-id: 116267
       - season: 2
         anilist-id: 141208
+
+  - title: トモちゃんは女の子!
+    synonyms:
+      - 'Tomo-chan wa Onnanoko!'
+    seasons:
+      - season: 1
+        anilist-id: 151806
 
   - title: トモダチゲーム
     synonyms:
@@ -1393,6 +1412,67 @@ entries:
       - season: 2
         anilist-id: 122808
 
+  - title: ポケットモンスター
+    synonyms:
+      - 'Pocket Monsters'
+      - Pokemon
+    seasons:
+      - season: 1
+        anilist-id: 527
+      - season: 2
+        anilist-id: 527
+      - season: 3
+        anilist-id: 527
+      - season: 4
+        anilist-id: 527
+      - season: 5
+        anilist-id: 527
+      - season: 6
+        anilist-id: 1564
+      - season: 7
+        anilist-id: 1564
+      - season: 8
+        anilist-id: 1564
+      - season: 9
+        anilist-id: 1564
+      - season: 10
+        anilist-id: 1565
+      - season: 11
+        anilist-id: 1565
+      - season: 12
+        anilist-id: 1565
+      - season: 13
+        anilist-id: 1565
+      - season: 14
+        anilist-id: 9107
+      - season: 15
+        anilist-id: 14093
+      - season: 15
+        anilist-id: 17115
+        start: 25
+      - season: 15
+        anilist-id: 17873
+        start: 39
+      - season: 16
+        anilist-id: 19291
+      - season: 17
+        anilist-id: 21356
+      - season: 18
+        anilist-id: 97634
+      - season: 19
+        anilist-id: 112153
+
+  - title: モブサイコ100
+    synonyms:
+      - 'Mob Psycho 100'
+    seasons:
+      - season: 1
+        anilist-id: 21507
+      - season: 2
+        anilist-id: 101338
+      - season: 3
+        anilist-id: 140439
+
   - title: モンスター娘のお医者さん
     synonyms:
       - 'Monster Musume no Oisha-san'
@@ -1445,6 +1525,15 @@ entries:
         anilist-id: 20671
       - season: 3
         anilist-id: 114862
+
+  - title: ロードス島戦記
+    synonyms:
+      - 'Lodoss-tou Senki'
+    seasons:
+      - season: 1
+        anilist-id: 207
+      - season: 2
+        anilist-id: 206
 
   - title: ワンダーエッグ・プライオリティ
     synonyms:
@@ -1539,6 +1628,13 @@ entries:
       - season: 2
         anilist-id: 12471
 
+  - title: 人間不信の冒険者たちが世界を救うようです
+    synonyms:
+      - 'Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu'
+    seasons:
+      - season: 1
+        anilist-id: 137909
+
   - title: 俺だけ入れる隠しダンジョン
     synonyms:
       - 'Ore dake Haireru Kakushi Dungeon'
@@ -1594,6 +1690,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 106319
+
+  - title: 冰剣の魔術師が世界を統べる
+    synonyms:
+      - 'Hyouken no Majutsushi ga Sekai wo Suberu'
+    seasons:
+      - season: 1
+        anilist-id: 148116
 
   - title: 処刑少女の生きる道
     synonyms:
@@ -1999,6 +2102,13 @@ entries:
       - season: 1
         anilist-id: 132010
 
+  - title: 恋愛フロップス
+    synonyms:
+      - 'Renai Flops'
+    seasons:
+      - season: 1
+        anilist-id: 146676
+
   - title: 悪役令嬢なのでラスボスを飼ってみました
     synonyms:
       - 'Akuyaku Reijou nano de Last Boss wo Kattemimashita'
@@ -2081,6 +2191,13 @@ entries:
         anilist-id: 126403
       - season: 2
         anilist-id: 136484
+
+  - title: 最強陰陽師の異世界転生記
+    synonyms:
+      - 'Saikyou Onmyouji no Isekai Tenseiki'
+    seasons:
+      - season: 1
+        anilist-id: 144553
 
   - title: 最果てのパラディン
     synonyms:
@@ -2180,6 +2297,13 @@ entries:
       - season: 2
         anilist-id: 139435
 
+  - title: 氷属性男子とクールな同僚女子
+    synonyms:
+      - 'Koori Zokusei Danshi to Cool na Douryou Joshi'
+    seasons:
+      - season: 1
+        anilist-id: 151252
+
   - title: 波よ聞いてくれ
     synonyms:
       - 'Nami yo Kiitekure'
@@ -2233,6 +2357,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 117343
+
+  - title: 犬になったら好きな人に拾われた.
+    synonyms:
+      - 'Inu ni Nattara Suki na Hito ni Hirowareta.'
+    seasons:
+      - season: 1
+        anilist-id: 146346
 
   - title: 犬夜叉
     synonyms:
@@ -2305,6 +2436,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 135806
+
+  - title: 異世界のんびり農家
+    synonyms:
+      - 'Isekai Nonbiri Nouka'
+    seasons:
+      - season: 1
+        anilist-id: 146850
 
   - title: '異世界チート魔術師[マジシャン]'
     synonyms:
@@ -2455,6 +2593,13 @@ entries:
       - season: 1
         anilist-id: 330
 
+  - title: 老後に備えて異世界で8万枚の金貨を貯めます
+    synonyms:
+      - 'Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu'
+    seasons:
+      - season: 1
+        anilist-id: 152765
+
   - title: 聖女の魔力は万能です
     synonyms:
       - 'Seijo no Maryoku wa Bannou desu'
@@ -2509,6 +2654,13 @@ entries:
       - season: 1
         anilist-id: 131083
 
+  - title: 解雇された暗黒兵士（30代）のスローなセカンドライフ
+    synonyms:
+      - 'Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life'
+    seasons:
+      - season: 1
+        anilist-id: 152523
+
   - title: '警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-'
     synonyms:
       - 'Keishicho Tokumu-bu Tokushu Kyoaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana'
@@ -2561,6 +2713,13 @@ entries:
         anilist-id: 139587
       - season: 2
         anilist-id: 159042
+
+  - title: 転生王女と天才令嬢の魔法革命
+    synonyms:
+      - 'Tensei Oujo to Tensai Reijou no Mahou Kakumei'
+    seasons:
+      - season: 1
+        anilist-id: 153629
 
   - title: '転生賢者の異世界ライフ~第二の職業を得て, 世界最強になりました~'
     synonyms:
@@ -2838,162 +2997,3 @@ entries:
     seasons:
       - season: 1
         anilist-id: 145260
-
-  - title: 恋愛フロップス
-    synonyms:
-      - 'Renai Flops'
-    seasons:
-      - season: 1
-        anilist-id: 146676
-
-  - title: 'LUPIN ZERO'
-    seasons:
-      - season: 1
-        anilist-id: 155925
-
-  - title: 人間不信の冒険者たちが世界を救うようです
-    synonyms:
-      - 'Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu'
-    seasons:
-      - season: 1
-        anilist-id: 137909
-
-  - title: トモちゃんは女の子!
-    synonyms:
-      - 'Tomo-chan wa Onnanoko!'
-    seasons:
-      - season: 1
-        anilist-id: 151806
-
-  - title: 犬になったら好きな人に拾われた.
-    synonyms:
-      - 'Inu ni Nattara Suki na Hito ni Hirowareta.'
-    seasons:
-      - season: 1
-        anilist-id: 146346
-
-  - title: REVENGER
-    seasons:
-      - season: 1
-        anilist-id: 155202
-
-  - title: お兄ちゃんはおしまい！
-    synonyms:
-      - 'Onii-chan wa Oshimai!'
-    seasons:
-      - season: 1
-        anilist-id: 147864
-
-  - title: スパイ教室
-    synonyms:
-      - 'Spy Kyoushitsu'
-    seasons:
-      - season: 1
-        anilist-id: 146323
-
-  - title: 転生王女と天才令嬢の魔法革命
-    synonyms:
-      - 'Tensei Oujo to Tensai Reijou no Mahou Kakumei'
-    seasons:
-      - season: 1
-        anilist-id: 153629
-
-  - title: 氷属性男子とクールな同僚女子
-    synonyms:
-      - 'Koori Zokusei Danshi to Cool na Douryou Joshi'
-    seasons:
-      - season: 1
-        anilist-id: 151252
-
-  - title: 冰剣の魔術師が世界を統べる
-    synonyms:
-      - 'Hyouken no Majutsushi ga Sekai wo Suberu'
-    seasons:
-      - season: 1
-        anilist-id: 148116
-
-  - title: アルスの巨獣
-    synonyms:
-      - 'Ars no Kyojuu'
-    seasons:
-      - season: 1
-        anilist-id: 155089
-
-  - title: 'Buddy Daddies'
-    seasons:
-      - season: 1
-        anilist-id: 155907
-
-  - title: 異世界のんびり農家
-    synonyms:
-      - 'Isekai Nonbiri Nouka'
-    seasons:
-      - season: 1
-        anilist-id: 146850
-
-  - title: 最強陰陽師の異世界転生記
-    synonyms:
-      - 'Saikyou Onmyouji no Isekai Tenseiki'
-    seasons:
-      - season: 1
-        anilist-id: 144553
-
-  - title: 'NieR:Automata Ver1.1a'
-    seasons:
-      - season: 1
-        anilist-id: 145665
-
-  - title: 解雇された暗黒兵士（30代）のスローなセカンドライフ
-    synonyms:
-      - 'Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life'
-    seasons:
-      - season: 1
-        anilist-id: 152523
-
-  - title: 'TRIGUN STAMPEDE'
-    seasons:
-      - season: 1
-        anilist-id: 151040
-
-  - title: 老後に備えて異世界で8万枚の金貨を貯めます
-    synonyms:
-      - 'Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu'
-    seasons:
-      - season: 1
-        anilist-id: 152765
-
-  - title: お隣の天使様にいつの間にか駄目人間にされていた件
-    synonyms:
-      - 'Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken'
-    seasons:
-      - season: 1
-        anilist-id: 143338
-
-  - title: 3月のライオン
-    synonyms:
-      - '3-gatsu no Lion'
-    seasons:
-      - season: 1
-        anilist-id: 21366
-      - season: 2
-        anilist-id: 98478
-
-  - title: ロードス島戦記
-    synonyms:
-      - 'Lodoss-tou Senki'
-    seasons:
-      - season: 1
-        anilist-id: 207
-      - season: 2
-        anilist-id: 206
-
-  - title: モブサイコ100
-    synonyms:
-      - 'Mob Psycho 100'
-    seasons:
-      - season: 1
-        anilist-id: 21507
-      - season: 2
-        anilist-id: 101338
-      - season: 3
-        anilist-id: 140439
