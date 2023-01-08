@@ -429,8 +429,9 @@ entries:
       - season: 4
         anilist-id: 133844
 
-  - title: "Pocket Monsters"
+  - title: "ポケットモンスター"
     synonyms:
+      - "Pocket Monsters"
       - "Pokemon"
     seasons:
       - season: 1
@@ -1733,6 +1734,8 @@ entries:
         anilist-id: 235
       - season: 30
         anilist-id: 235
+      - season: 31
+        anilist-id: 235
 
   - title: "君に届け"
     synonyms:
@@ -2965,3 +2968,32 @@ entries:
     seasons:
       - season: 1
         anilist-id: 143338
+
+  - title: "3月のライオン"
+    synonyms:
+      - "3-gatsu no Lion"
+    seasons:
+      - season: 1
+        anilist-id: 21366
+      - season: 2
+        anilist-id: 98478
+
+  - title: "ロードス島戦記"
+    synonyms:
+      - "Lodoss-tou Senki"
+    seasons:
+      - season: 1
+        anilist-id: 207
+      - season: 2
+        anilist-id: 206
+
+  - title: "モブサイコ100"
+    synonyms:
+      - "Mob Psycho 100"
+    seasons:
+      - season: 1
+        anilist-id: 21507
+      - season: 2
+        anilist-id: 101338
+      - season: 3
+        anilist-id: 140439
