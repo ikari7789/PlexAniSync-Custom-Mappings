@@ -1,10 +1,14 @@
 ---
 entries:
-  # - title: .hack//SIGN
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: .hack//SIGN
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 48
+      - season: 2
+        anilist-id: 298
+      - season: 3
+        anilist-id: 873
 
   - title: 100万の命の上に俺は立っている
     synonyms:
@@ -15,17 +19,17 @@ entries:
       - season: 2
         anilist-id: 127366
 
-  # - title: 11eyes
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 11eyes
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 6682
 
-  # - title: 18if
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 18if
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 98512
 
   - title: '3月のライオン (2017)'
     synonyms:
@@ -56,35 +60,45 @@ entries:
         anilist-id: 131586
         start: 12
 
-  # - title: AIKa
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: AIKa
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 366
+      - season: 2
+        anilist-id: 2163
+      - season: 3
+        anilist-id: 6443
 
-  # - title: AKB0048
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: AKB0048
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 12149
+      - season: 2
+        anilist-id: 14941
 
-  # - title: 'Angel Beats!'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'Angel Beats!'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 6547
 
-  # - title: BEASTARS
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: BEASTARS
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 107660
+      - season: 2
+        anilist-id: 114194
 
-  # - title: 'BLACK LAGOON'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'BLACK LAGOON'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 889
+      - season: 2
+        anilist-id: 1519
 
   - title: BLEACH
     synonyms:
@@ -125,17 +139,18 @@ entries:
       - season: 17
         anilist-id: 116674
 
-  # - title: 'BLUE DROP 天使達の戯曲'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'BLUE DROP 天使達の戯曲'
+    synonyms:
+      - 'BLUE DROP: Tenshi-tachi no Gikyoku'
+    seasons:
+      - season: 1
+        anilist-id: 2964
 
-  # - title: BNA
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: BNA
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 110354
 
   - title: 'BUILD DIVIDE -#000000-'
     synonyms:
@@ -146,20 +161,20 @@ entries:
       - season: 2
         anilist-id: 132526
 
-  # - title: 'BURN THE WITCH'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'BURN THE WITCH'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 116673
 
   - title: 'Buddy Daddies'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 155907
 
   - title: COLORFUL
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 841
@@ -172,28 +187,31 @@ entries:
         anilist-id: 106893
 
   - title: CUE!
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 125682
 
-  # - title: 'Carnival Phantasm'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'Carnival Phantasm'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 10012
 
-  # - title: 'DARKER THAN BLACK 黒の契約者'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'DARKER THAN BLACK 黒の契約者'
+    synonyms:
+      - 'DARKER THAN BLACK: Kuro no Keiyakusha'
+    seasons:
+      - season: 1
+        anilist-id: 2025
+      - season: 2
+        anilist-id: 6573
 
-  # - title: 'DEATH NOTE'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'DEATH NOTE'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 1535
 
   - title: 'DIGIMON Ghost Game'
     synonyms:
@@ -261,13 +279,13 @@ entries:
         anilist-id: 114099
 
   - title: 'Deep Insanity THE LOST CHILD'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 136947
 
   - title: 'Do It Yourself!!'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 131516
@@ -284,7 +302,7 @@ entries:
         anilist-id: 131518
 
   - title: 'EDENS ZERO'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 119683
@@ -292,7 +310,7 @@ entries:
         anilist-id: 144932
 
   - title: 'Engage Kiss'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 146625
@@ -318,11 +336,12 @@ entries:
       - season: 8
         anilist-id: 99749
 
-  # - title: 'FF:U -ファイナルファンタジー:アンリミテッド-'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'FF:U -ファイナルファンタジー:アンリミテッド-'
+    synonyms:
+      - 'Final Fantasy: Unlimited'
+    seasons:
+      - season: 1
+        anilist-id: 1157
 
   - title: GIBIATE
     synonyms:
@@ -341,17 +360,17 @@ entries:
       - season: 2
         anilist-id: 487
 
-  # - title: GOSICK
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: GOSICK
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 8425
 
-  # - title: "I''s Pure"
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: "I''s Pure"
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 811
 
   - title: 'ID:INVADED'
     synonyms:
@@ -368,13 +387,13 @@ entries:
         anilist-id: 118376
 
   - title: LISTENERS
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 109856
 
   - title: 'LUPIN ZERO'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 155925
@@ -388,11 +407,11 @@ entries:
       - season: 2
         anilist-id: 142985
 
-  # - title: 'Myself; Yourself'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'Myself; Yourself'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 2926
 
   - title: NARUTO
     synonyms:
@@ -465,20 +484,20 @@ entries:
       - season: 1
         anilist-id: 1210
 
-  # - title: NO.6
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: NO.6
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 10161
 
   - title: NOBLESSE
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 116005
 
   - title: 'NieR:Automata Ver1.1a'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 145665
@@ -562,7 +581,7 @@ entries:
         anilist-id: 133844
 
   - title: 'One Room'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 97857
@@ -572,16 +591,16 @@ entries:
         anilist-id: 116147
 
   - title: REVENGER
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 155202
 
-  # - title: 'Re:CREATORS'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'Re:CREATORS'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 97980
 
   - title: 'Re:ゼロから始める異世界生活'
     synonyms:
@@ -596,11 +615,12 @@ entries:
         anilist-id: 119661
         start: 14
 
-  # - title: 'ReLIFE (2018)'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'ReLIFE (2018)'
+    synonyms:
+      - 'ReLIFE'
+    seasons:
+      - season: 1
+        anilist-id: 21049
 
   - title: SAKUGAN
     synonyms:
@@ -609,29 +629,31 @@ entries:
       - season: 1
         anilist-id: 108987
 
-  # - title: SDガンダムフォース
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: SDガンダムフォース
+    synonyms:
+      - 'SD Gundam Force'
+    seasons:
+      - season: 1
+        anilist-id: 2391
 
-  # - title: 'SDガンダム三国伝 Brave Battle Warriors'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'SDガンダム三国伝 Brave Battle Warriors'
+    synonyms:
+      - 'SD Gundam Sangokuden Brave Battle Warriors'
+    seasons:
+      - season: 1
+        anilist-id: 8287
 
   - title: 'SHAMAN KING (2021)'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 119675
 
-  # - title: SHUFFLE!
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: SHUFFLE!
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 79
 
   - title: SPY×FAMILY
     synonyms:
@@ -651,82 +673,104 @@ entries:
         anilist-id: 8934
 
   - title: Steins;Gate
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 9253
 
-  # - title: 'Sword Art Online'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'Sword Art Online'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 11757
+      - season: 2
+        anilist-id: 20594
+      - season: 3
+        anilist-id: 100182
+      - season: 4
+        anilist-id: 108759
+      - season: 4
+        anilist-id: 114308
+        start: 13
 
-  # - title: 'TABOO TATTOO'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'TABOO TATTOO'
+    synonyms:
+      - 'Taboo Tattoo'
+    seasons:
+      - season: 1
+        anilist-id: 21031
 
-  # - title: 'TALES OF LUMINARIA The Fateful Crossroad'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'TALES OF LUMINARIA The Fateful Crossroad'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 139592
 
   - title: 'THE GOD OF HIGH SCHOOL'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 116006
 
-  # - title: 'THE iDOLM@STER'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'THE iDOLM@STER'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 10278
 
-  # - title: TO(トゥー)
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: TO(トゥー)
+    synonyms:
+      - TO
+    seasons:
+      - season: 1
+        anilist-id: 7279
 
   - title: 'TRIGUN STAMPEDE'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 151040
 
   - title: 'Taishou Otome Otogibanashi'
-    synonyms: {  }
+    synonyms: [  ]
     seasons:
       - season: 1
         anilist-id: 127412
 
-  # - title: 'To Love-Ru: Trouble'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'To Love-Ru: Trouble'
+    synonyms:
+      - 'To LOVE-Ru Darkness'
+    seasons:
+      - season: 1
+        anilist-id: 3455
+      - season: 2
+        anilist-id: 9181
+      - season: 3
+        anilist-id: 13663
+      - season: 4
+        anilist-id: 20995
 
-  # - title: 'VALKYRIE DRIVE -MERMAID-'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'VALKYRIE DRIVE -MERMAID-'
+    synonyms:
+      - 'Valkyrie Drive: Mermaid'
+    seasons:
+      - season: 1
+        anilist-id: 21116
 
-  # - title: "Vivy -Fluorite Eye's Song-"
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: "Vivy -Fluorite Eye's Song-"
+    synonyms:
+      - "Vivy: Fluorite Eye’s Song"
+    seasons:
+      - season: 1
+        anilist-id: 128546
 
-  # - title: 'WHITE ALBUM'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'WHITE ALBUM'
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 4720
+      - season: 2
+        anilist-id: 18245
 
   - title: 'bpS バトルプログラマーシラセ'
     synonyms:
@@ -736,11 +780,11 @@ entries:
       - season: 1
         anilist-id: 579
 
-  # - title: sola
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: sola
+    synonyms: [  ]
+    seasons:
+      - season: 1
+        anilist-id: 1965
 
   - title: 'tákt op.Destiny'
     synonyms:
@@ -749,11 +793,12 @@ entries:
       - season: 1
         anilist-id: 131565
 
-  # - title: ∀GUNDAM
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ∀GUNDAM
+    synonyms:
+      - '∀ Gundam'
+    seasons:
+      - season: 1
+        anilist-id: 95
 
   - title: 'あずまんが大王 THE ANIMATION (2002)'
     synonyms:
@@ -763,11 +808,12 @@ entries:
       - season: 1
         anilist-id: 66
 
-  # - title: あの夏で待ってる
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: あの夏で待ってる
+    synonyms:
+      - 'Ano Natsu de Matteru'
+    seasons:
+      - season: 1
+        anilist-id: 11433
 
   - title: あの日見た花の名前を僕達はまだ知らない.
     synonyms:
@@ -786,11 +832,12 @@ entries:
       - season: 2
         anilist-id: 886
 
-  # - title: あまつき
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: あまつき
+    synonyms:
+      - Amatsuki
+    seasons:
+      - season: 1
+        anilist-id: 3359
 
   - title: ありふれた職業で世界最強
     synonyms:
@@ -803,11 +850,16 @@ entries:
       - season: 3
         anilist-id: 154473
 
-  # - title: うたわれるもの
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: うたわれるもの
+    synonyms:
+      - Utawarerumono
+    seasons:
+      - season: 1
+        anilist-id: 856
+      - season: 2
+        anilist-id: 21218
+      - season: 3
+        anilist-id: 112640
 
   - title: うちの師匠はしっぽがない
     synonyms:
@@ -823,11 +875,12 @@ entries:
       - season: 1
         anilist-id: 112802
 
-  # - title: うる星やつら
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: うる星やつら
+    synonyms:
+      - 'Urusei Yatsura'
+    seasons:
+      - season: 1
+        anilist-id: 1293
 
   - title: 'うる星やつら (2022)'
     synonyms:
@@ -836,11 +889,14 @@ entries:
       - season: 1
         anilist-id: 143277
 
-  # - title: おくさまが生徒会長!
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: おくさまが生徒会長!
+    synonyms:
+      - 'Okusama ga Seitokaichou!'
+    seasons:
+      - season: 1
+        anilist-id: 20984
+      - season: 2
+        anilist-id: 21610
 
   - title: おくさまは女子高生
     synonyms:
@@ -849,11 +905,16 @@ entries:
       - season: 1
         anilist-id: 470
 
-  # - title: おそ松さん
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: おそ松さん
+    synonyms:
+      - Osomatsu-san
+    seasons:
+      - season: 1
+        anilist-id: 21261
+      - season: 2
+        anilist-id: 98565
+      - season: 3
+        anilist-id: 120851
 
   - title: おねがい☆ツインズ
     synonyms:
@@ -869,17 +930,19 @@ entries:
       - season: 1
         anilist-id: 195
 
-  # - title: おまもりひまり
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: おまもりひまり
+    synonyms:
+      - 'Omamori Himari'
+    seasons:
+      - season: 1
+        anilist-id: 6324
 
-  # - title: お兄ちゃんだけど愛さえあれば関係ないよねっ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: お兄ちゃんだけど愛さえあれば関係ないよねっ
+    synonyms:
+      - 'Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne!'
+    seasons:
+      - season: 1
+        anilist-id: 14199
 
   - title: お兄ちゃんはおしまい！
     synonyms:
@@ -902,29 +965,41 @@ entries:
       - season: 1
         anilist-id: 113311
 
-  # - title: 'かぐや様は告らせたい ~天才たちの恋愛頭脳戦~'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'かぐや様は告らせたい ~天才たちの恋愛頭脳戦~'
+    synonyms:
+      - 'Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen'
+    seasons:
+      - season: 1
+        anilist-id: 101921
+      - season: 2
+        anilist-id: 112641
+      - season: 3
+        anilist-id: 125367
 
-  # - title: 'かしまし ~ガール・ミーツ・ガール~'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'かしまし ~ガール・ミーツ・ガール~'
+    synonyms:
+      - 'Kashimashi: Girl Meets Girl'
+    seasons:
+      - season: 1
+        anilist-id: 667
 
-  # - title: かのこん
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: かのこん
+    synonyms:
+      - Kanokon
+    seasons:
+      - season: 1
+        anilist-id: 3503
 
-  # - title: からかい上手の高木さん
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: からかい上手の高木さん
+    synonyms:
+      - 'Karakai Jouzu no Takagi-san'
+    seasons:
+      - season: 1
+        anilist-id: 99468
+      - season: 2
+        anilist-id: 107068
+      - season: 3
+        anilist-id: 138424
 
   - title: がんばれ同期ちゃん
     synonyms:
@@ -942,17 +1017,23 @@ entries:
       - season: 2
         anilist-id: 7791
 
-  # - title: けんぷファー
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: けんぷファー
+    synonyms:
+      - Kämpfer
+    seasons:
+      - season: 1
+        anilist-id: 6205
 
-  # - title: げんしけん
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: げんしけん
+    synonyms:
+      - Genshiken
+    seasons:
+      - season: 1
+        anilist-id: 240
+      - season: 2
+        anilist-id: 2508
+      - season: 3
+        anilist-id: 18465
 
   - title: 'このヒーラー, めんどくさい'
     synonyms:
@@ -979,41 +1060,51 @@ entries:
       - season: 3
         anilist-id: 136804
 
-  # - title: ご愁傷さま二ノ宮くん
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ご愁傷さま二ノ宮くん
+    synonyms:
+      - 'Goshuushou-sama Ninomiya-kun'
+    seasons:
+      - season: 1
+        anilist-id: 2494
 
-  # - title: さくら荘のペットな彼女
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: さくら荘のペットな彼女
+    synonyms:
+      - 'Sakurasou no Pet na Kanojo'
+    seasons:
+      - season: 1
+        anilist-id: 13759
 
-  # - title: さよなら絶望先生
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: さよなら絶望先生
+    synonyms:
+      - 'Sayonara Zetsubou Sensei'
+    seasons:
+      - season: 1
+        anilist-id: 2605
+      - season: 2
+        anilist-id: 3228
+      - season: 3
+        anilist-id: 6377
 
-  # - title: さんかれあ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: さんかれあ
+    synonyms:
+      - Sankarea
+    seasons:
+      - season: 1
+        anilist-id: 11499
 
-  # - title: しおんの王
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: しおんの王
+    synonyms:
+      - 'Shion no Ou: The Flowers of Hard Blood'
+    seasons:
+      - season: 1
+        anilist-id: 2562
 
-  # - title: 'せんせいのお時間 DOKI DOKI SCHOOL HOURS'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'せんせいのお時間 DOKI DOKI SCHOOL HOURS'
+    synonyms:
+      - 'Sensei no Ojikan: Doki Doki School Hours'
+    seasons:
+      - season: 1
+        anilist-id: 533
 
   - title: その着せ替え人形は恋をする
     synonyms:
@@ -1038,11 +1129,12 @@ entries:
       - season: 1
         anilist-id: 112649
 
-  # - title: 'だから僕は, Hができない.'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'だから僕は, Hができない.'
+    synonyms:
+      - 'Dakara Boku wa, H ga Dekinai.'
+    seasons:
+      - season: 1
+        anilist-id: 12549
 
   - title: ちょびっツ
     synonyms:
@@ -1051,11 +1143,14 @@ entries:
       - season: 1
         anilist-id: 59
 
-  # - title: つぐもも
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: つぐもも
+    synonyms:
+      - Tsugumomo
+    seasons:
+      - season: 1
+        anilist-id: 97625
+      - season: 2
+        anilist-id: 108266
 
   - title: であいもん
     synonyms:
@@ -1117,11 +1212,12 @@ entries:
       - season: 1
         anilist-id: 6512
 
-  # - title: 'はぐれ勇者の鬼畜美学[エステティカ]'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'はぐれ勇者の鬼畜美学[エステティカ]'
+    synonyms:
+      - 'Hagure Yuusha no Estetica'
+    seasons:
+      - season: 1
+        anilist-id: 13161
 
   - title: はじめてのギャル
     synonyms:
@@ -1130,17 +1226,21 @@ entries:
       - season: 1
         anilist-id: 97863
 
-  # - title: はたらく細胞
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: はたらく細胞
+    synonyms:
+      - 'Hataraku Saibou'
+    seasons:
+      - season: 1
+        anilist-id: 100977
+      - season: 2
+        anilist-id: 108631
 
-  # - title: はたらく細胞BLACK
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: はたらく細胞BLACK
+    synonyms:
+      - 'Hataraku Saibou BLACK'
+    seasons:
+      - season: 1
+        anilist-id: 117533
 
   - title: はたらく魔王さま!
     synonyms:
@@ -1155,11 +1255,14 @@ entries:
         anilist-id: 155168
         start: 13
 
-  # - title: ひぐらしのなく頃に業
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ひぐらしのなく頃に業
+    synonyms:
+      - 'Higurashi no Naku Koro ni Gou'
+    seasons:
+      - season: 1
+        anilist-id: 114446
+      - season: 2
+        anilist-id: 131149
 
   - title: 'ひげを剃る. そして女子高生を拾う.'
     synonyms:
@@ -1168,17 +1271,21 @@ entries:
       - season: 1
         anilist-id: 114232
 
-  # - title: ひまわりっ!
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ひまわりっ!
+    synonyms:
+      - Himawari!
+    seasons:
+      - season: 1
+        anilist-id: 910
+      - season: 2
+        anilist-id: 1988
 
-  # - title: ぶらどらぶ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ぶらどらぶ
+    synonyms:
+      - 'Vlad Love'
+    seasons:
+      - season: 1
+        anilist-id: 110200
 
   - title: ぼくたちのリメイク
     synonyms:
@@ -1203,11 +1310,12 @@ entries:
       - season: 1
         anilist-id: 104936
 
-  # - title: ぽぽたん
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ぽぽたん
+    synonyms:
+      - Popotan
+    seasons:
+      - season: 1
+        anilist-id: 610
 
   - title: ましろのおと
     synonyms:
@@ -1216,11 +1324,12 @@ entries:
       - season: 1
         anilist-id: 122348
 
-  # - title: みなみけ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: みなみけ
+    synonyms:
+      - Minami-ke
+    seasons:
+      - season: 1
+        anilist-id: 2963
 
   - title: やはり俺の青春ラブコメはまちがっている.
     synonyms:
@@ -1252,17 +1361,31 @@ entries:
       - season: 1
         anilist-id: 141391
 
-  # - title: らき☆すた
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: らき☆すた
+    synonyms:
+      - Lucky☆Star
+    seasons:
+      - season: 1
+        anilist-id: 1887
 
-  # - title: らんま1/2
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: らんま1/2
+    synonyms:
+      - 'Ranma 1/2'
+    seasons:
+      - season: 1
+        anilist-id: 210
+      - season: 2
+        anilist-id: 149939
+      - season: 3
+        anilist-id: 149939
+      - season: 4
+        anilist-id: 149939
+      - season: 5
+        anilist-id: 149939
+      - season: 6
+        anilist-id: 149939
+      - season: 7
+        anilist-id: 149939
 
   - title: 'るろうに剣心 -明治剣客浪漫譚-'
     synonyms:
@@ -1275,11 +1398,12 @@ entries:
       - season: 3
         anilist-id: 45
 
-  # - title: アキカン!
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: アキカン!
+    synonyms:
+      - Akikan!
+    seasons:
+      - season: 1
+        anilist-id: 5112
 
   - title: アクダマドライブ
     synonyms:
@@ -1303,11 +1427,14 @@ entries:
       - season: 1
         anilist-id: 104159
 
-  # - title: アマガミSS
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: アマガミSS
+    synonyms:
+      - 'Amagami SS'
+    seasons:
+      - season: 1
+        anilist-id: 8876
+      - season: 2
+        anilist-id: 11235
 
   - title: アルスの巨獣
     synonyms:
@@ -1325,11 +1452,12 @@ entries:
       - season: 2
         anilist-id: 140596
 
-  # - title: イノセント・ヴィーナス
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: イノセント・ヴィーナス
+    synonyms:
+      - 'Innocent Venus'
+    seasons:
+      - season: 1
+        anilist-id: 1230
 
   - title: ウルフズレイン
     synonyms:
@@ -1338,11 +1466,12 @@ entries:
       - season: 1
         anilist-id: 202
 
-  # - title: エルゴプラクシー
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: エルゴプラクシー
+    synonyms:
+      - 'Ergo Proxy'
+    seasons:
+      - season: 1
+        anilist-id: 790
 
   - title: エルフを狩るモノたち
     synonyms:
@@ -1353,17 +1482,19 @@ entries:
       - season: 2
         anilist-id: 1046
 
-  # - title: エルフェンリート
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: エルフェンリート
+    synonyms:
+      - 'Elfen Lied'
+    seasons:
+      - season: 1
+        anilist-id: 226
 
-  # - title: エロマンガ先生
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: エロマンガ先生
+    synonyms:
+      - 'Eromanga Sensei'
+    seasons:
+      - season: 1
+        anilist-id: 21685
 
   - title: オリエント
     synonyms:
@@ -1397,35 +1528,44 @@ entries:
       - season: 1
         anilist-id: 126192
 
-  # - title: 'ガンダム Gのレコンギスタ'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'ガンダム Gのレコンギスタ'
+    synonyms:
+      - 'Gundam: G no Reconguista'
+    seasons:
+      - season: 1
+        anilist-id: 20658
 
-  # - title: 'ガンダム イボルブ'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'ガンダム イボルブ'
+    synonyms:
+      - 'Gundam EVOLVE'
+    seasons:
+      - season: 1
+        anilist-id: 3288
 
-  # - title: ガンダムビルドダイバーズ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ガンダムビルドダイバーズ
+    synonyms:
+      - 'Gundam Build Divers'
+    seasons:
+      - season: 1
+        anilist-id: 101036
 
-  # - title: 'ガンダムビルドダイバーズRe:RISE (2020)'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'ガンダムビルドダイバーズRe:RISE (2020)'
+    synonyms:
+      - 'Gundam Build Divers Re:RISE'
+    seasons:
+      - season: 1
+        anilist-id: 110786
+      - season: 2
+        anilist-id: 114233
 
-  # - title: ガンダムビルドファイターズ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ガンダムビルドファイターズ
+    synonyms:
+      - 'Gundam Build Fighters'
+    seasons:
+      - season: 1
+        anilist-id: 19319
+      - season: 2
+        anilist-id: 20739
 
   - title: ガンツ
     synonyms:
@@ -1436,11 +1576,12 @@ entries:
       - season: 2
         anilist-id: 395
 
-  # - title: 'キノの旅 -the Beautiful World-'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'キノの旅 -the Beautiful World-'
+    synonyms:
+      - 'Kino no Tabi: the Beautiful World'
+    seasons:
+      - season: 1
+        anilist-id: 486
 
   - title: 'キミと僕の最後の戦場, あるいは世界が始まる聖戦'
     synonyms:
@@ -1450,23 +1591,26 @@ entries:
       - season: 1
         anilist-id: 112667
 
-  # - title: キルラキル
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: キルラキル
+    synonyms:
+      - 'Kill la Kill'
+    seasons:
+      - season: 1
+        anilist-id: 18679
 
-  # - title: 'ギフト~ eternal rainbow'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'ギフト~ eternal rainbow'
+    synonyms:
+      - 'Gift: eternal rainbow'
+    seasons:
+      - season: 1
+        anilist-id: 1581
 
-  # - title: クズの本懐
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: クズの本懐
+    synonyms:
+      - 'Kuzu no Honkai'
+    seasons:
+      - season: 1
+        anilist-id: 21701
 
   - title: クレイモア
     synonyms:
@@ -1475,11 +1619,14 @@ entries:
       - season: 1
         anilist-id: 1818
 
-  # - title: 'グリザイアの果実 -LE FRUIT DE LA GRISAIA-'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'グリザイアの果実 -LE FRUIT DE LA GRISAIA-'
+    synonyms:
+      - 'Grisaia no Kajitsu'
+    seasons:
+      - season: 1
+        anilist-id: 17729
+      - season: 2
+        anilist-id: 21005
 
   - title: グリーングリーン
     synonyms:
@@ -1495,11 +1642,12 @@ entries:
       - season: 1
         anilist-id: 108241
 
-  # - title: ケメコデラックス!
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ケメコデラックス!
+    synonyms:
+      - 'Kemeko DX'
+    seasons:
+      - season: 1
+        anilist-id: 3464
 
   - title: 'コードギアス 反逆のルルーシュ'
     synonyms:
@@ -1539,11 +1687,12 @@ entries:
       - season: 1
         anilist-id: 129201
 
-  # - title: サーバントxサービス
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: サーバントxサービス
+    synonyms:
+      - 'Servant x Service'
+    seasons:
+      - season: 1
+        anilist-id: 18119
 
   - title: シキザクラ
     synonyms:
@@ -1552,17 +1701,19 @@ entries:
       - season: 1
         anilist-id: 105119
 
-  # - title: シグルイ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: シグルイ
+    synonyms:
+      - Shigurui
+    seasons:
+      - season: 1
+        anilist-id: 2216
 
-  # - title: シャングリ・ラ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: シャングリ・ラ
+    synonyms:
+      - Shangri-La
+    seasons:
+      - season: 1
+        anilist-id: 5220
 
   - title: ジャヒー様はくじけない!
     synonyms:
@@ -1584,7 +1735,7 @@ entries:
 
   - title: ジョジョの奇妙な冒険
     synonyms:
-      - ' JoJo no Kimyou na Bouken (TV)'
+      - 'JoJo no Kimyou na Bouken (TV)'
       - "JoJo's Bizarre Adventure (2012)"
       - "JoJo's Bizarre Adventure"
       - 'JoJo no Kimyou na Bouken'
@@ -1608,29 +1759,33 @@ entries:
         anilist-id: 146722
         start: 13
 
-  # - title: ジンキ・エクステンド
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ジンキ・エクステンド
+    synonyms:
+      - 'Jinki:Extend'
+    seasons:
+      - season: 1
+        anilist-id: 141
 
-  # - title: スカートの中はケダモノでした.
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: スカートの中はケダモノでした.
+    synonyms:
+      - 'Skirt no Naka wa Kedamono Deshita.'
+    seasons:
+      - season: 1
+        anilist-id: 98790
 
-  # - title: 'スクラップド・プリンセス [SCRAPPED+PRINCESS]'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'スクラップド・プリンセス [SCRAPPED+PRINCESS]'
+    synonyms:
+      - 'Scrapped Princess'
+    seasons:
+      - season: 1
+        anilist-id: 167
 
-  # - title: スクールデイズ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: スクールデイズ
+    synonyms:
+      - 'School Days (TV)'
+    seasons:
+      - season: 1
+        anilist-id: 2476
 
   - title: スターシップ・オペレーターズ
     synonyms:
@@ -1639,17 +1794,27 @@ entries:
       - season: 1
         anilist-id: 342
 
-  # - title: ストライク・ザ・ブラッド
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ストライク・ザ・ブラッド
+    synonyms:
+      - 'Strike the Blood'
+    seasons:
+      - season: 1
+        anilist-id: 18277
+      - season: 2
+        anilist-id: 21815
+      - season: 3
+        anilist-id: 102436
+      - season: 4
+        anilist-id: 112296
+      - season: 5
+        anilist-id: 136226
 
-  # - title: ストロベリー・パニック
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ストロベリー・パニック
+    synonyms:
+      - 'Strawberry Panic'
+    seasons:
+      - season: 1
+        anilist-id: 855
 
   - title: スパイ教室
     synonyms:
@@ -1665,11 +1830,20 @@ entries:
       - season: 1
         anilist-id: 112608
 
-  # - title: スーパードラゴンボールヒーローズ
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: スーパードラゴンボールヒーローズ
+    synonyms:
+      - 'Super Dragon Ball Heroes'
+    seasons:
+      - season: 1
+        anilist-id: 102352
+      - season: 2
+        anilist-id: 102352
+      - season: 3
+        anilist-id: 102352
+      - season: 4
+        anilist-id: 102352
+      - season: 5
+        anilist-id: 102352
 
   - title: 'セスタス-The Roman Fighter-'
     synonyms:
@@ -1685,11 +1859,12 @@ entries:
       - season: 1
         anilist-id: 97682
 
-  # - title: 'ソウナンですか?'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'ソウナンですか?'
+    synonyms:
+      - 'Sounan desu ka?'
+    seasons:
+      - season: 1
+        anilist-id: 108111
 
   - title: ソウルイーター
     synonyms:
@@ -1705,11 +1880,12 @@ entries:
       - season: 1
         anilist-id: 108617
 
-  # - title: 'ソードアート・オンライン オルタナティブ ガンゲイル・オンライン'
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: 'ソードアート・オンライン オルタナティブ ガンゲイル・オンライン'
+    synonyms:
+      - 'Sword Art Online Alternative: Gun Gale Online'
+    seasons:
+      - season: 1
+        anilist-id: 100183
 
   - title: 'ダンジョンに出会いを求めるのは間違っているだろうか FAMILIA MYTH'
     synonyms:
@@ -1757,11 +1933,14 @@ entries:
       - season: 1
         anilist-id: 114302
 
-  # - title: ツバサ・クロニクル
-  #   synonyms: {  }
-  #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  - title: ツバサ・クロニクル
+    synonyms:
+      - 'Tsubasa Chronicle'
+    seasons:
+      - season: 1
+        anilist-id: 177
+      - season: 2
+        anilist-id: 969
 
   - title: 'テガミバチ LETTER BEE'
     synonyms:
@@ -1796,28 +1975,28 @@ entries:
         anilist-id: 114811
 
   # - title: デジモンクロスウォーズ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: デジモンセイバーズ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: デジモンテイマーズ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: デジモンフロンティア
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: デトロイト・メタル・シティ
     synonyms:
@@ -1835,10 +2014,10 @@ entries:
         anilist-id: 992
 
   # - title: デュラララ!!
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: トニカクカワイイ
     synonyms:
@@ -1871,16 +2050,16 @@ entries:
         anilist-id: 6
 
   # - title: トリニティセブン
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: ドメスティックな彼女
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 'ドラゴン, 家を買う.'
     synonyms:
@@ -1920,22 +2099,22 @@ entries:
         anilist-id: 106239
 
   # - title: ノラガミ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: ノ・ゾ・キ・ア・ナ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: ハイスクールDxD
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: ハコヅメ~交番女子の逆襲~
     synonyms:
@@ -1998,10 +2177,10 @@ entries:
         anilist-id: 135
 
   # - title: ヒャッコ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: ピーター・グリルと賢者の時間
     synonyms:
@@ -2020,10 +2199,10 @@ entries:
         anilist-id: 122441
 
   # - title: フラクタル
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: フリクリ
     synonyms:
@@ -2069,10 +2248,10 @@ entries:
         anilist-id: 127401
 
   # - title: プラネテス
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: プランダラ
     synonyms:
@@ -2091,16 +2270,16 @@ entries:
         anilist-id: 122808
 
   # - title: プリンセスラバー!
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 'ベルセルク 黄金時代篇 MEMORIAL EDITION'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: ポケットモンスター
     synonyms:
@@ -2153,10 +2332,10 @@ entries:
         anilist-id: 112153
 
   # - title: 'マギアレコード 魔法少女まどか☆マギカ外伝'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: モブサイコ100
     synonyms:
@@ -2177,22 +2356,22 @@ entries:
         anilist-id: 113286
 
   # - title: ヤミと帽子と本の旅人
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 'ヨスガノソラ In solitude, where we are least alone.'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: ヨルムンガンド
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: ラブ★コン
     synonyms:
@@ -2202,10 +2381,10 @@ entries:
         anilist-id: 2034
 
   # - title: 'ラブライブ! School idol project'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: ラーゼフォン
     synonyms:
@@ -2229,16 +2408,16 @@ entries:
         anilist-id: 143270
 
   # - title: ルパン三世
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: レジェンド・オブ・クリスタニア
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: レック
     synonyms:
@@ -2302,10 +2481,10 @@ entries:
         anilist-id: 257
 
   # - title: 下ネタという概念が存在しない退屈な世界
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 不徳のギルド
     synonyms:
@@ -2331,22 +2510,22 @@ entries:
         anilist-id: 129898
 
   # - title: 中二病でも恋がしたい!
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 乃木坂春香の秘密
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '乙女はお姉さま[ボク]に恋してる'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった...
     synonyms:
@@ -2376,10 +2555,10 @@ entries:
         anilist-id: 109261
 
   # - title: 亜人ちゃんは語りたい
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 交響詩篇エウレカセブン
     synonyms:
@@ -2398,10 +2577,10 @@ entries:
         anilist-id: 137909
 
   # - title: 仮面のメイドガイ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 俺だけ入れる隠しダンジョン
     synonyms:
@@ -2420,10 +2599,10 @@ entries:
         anilist-id: 13659
 
   # - title: '俺の脳内選択肢が, 学園ラブコメを全力で邪魔している'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 俺を好きなのはお前だけかよ
     synonyms:
@@ -2458,11 +2637,18 @@ entries:
       - season: 6
         anilist-id: 139630
 
+  - title: '僕の心のヤバイやつ'
+    synonyms:
+      - 'Boku no Kokoro no Yabai Yatsu'
+    seasons:
+      - season: 1
+        anilist-id: 153152
+
   # - title: 先輩がうざい後輩の話
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '八男って, それはないでしょう!'
     synonyms:
@@ -2472,10 +2658,10 @@ entries:
         anilist-id: 106319
 
   # - title: 冬のソナタ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 冰剣の魔術師が世界を統べる
     synonyms:
@@ -2485,10 +2671,10 @@ entries:
         anilist-id: 148116
 
   # - title: 冴えない彼女の育てかた
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 処刑少女の生きる道
     synonyms:
@@ -2505,10 +2691,10 @@ entries:
         anilist-id: 126047
 
   # - title: 刀語
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '勇者, 辞めます'
     synonyms:
@@ -2565,10 +2751,10 @@ entries:
         anilist-id: 127911
 
   # - title: '可愛ければ変態でも好きになってくれますか?'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '史上最強の大魔王, 村人Aに転生する'
     synonyms:
@@ -2670,10 +2856,10 @@ entries:
         anilist-id: 145064
 
   # - title: 咲
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 啄木鳥探偵處
     synonyms:
@@ -2683,10 +2869,10 @@ entries:
         anilist-id: 108629
 
   # - title: 四月は君の嘘
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 回復術士のやり直し
     synonyms:
@@ -2702,11 +2888,18 @@ entries:
       - season: 1
         anilist-id: 122137
 
+  - title: '地獄楽'
+    synonyms:
+      - 'Jigokuraku'
+    seasons:
+      - season: 1
+        anilist-id: 128893
+
   # - title: '坂本ですが?'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 境界戦機
     synonyms:
@@ -2720,10 +2913,17 @@ entries:
         start: 14
 
   # - title: 夏目友人帳
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
+
+  - title: '天国大魔境'
+    synonyms:
+      - 'Tengoku Daimakyou'
+    seasons:
+      - season: 1
+        anilist-id: 155783
 
   - title: '天元突破 グレンラガン'
     synonyms:
@@ -2740,10 +2940,10 @@ entries:
         anilist-id: 117696
 
   # - title: '天地無用! 魎皇鬼'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 天才王子の赤字国家再生術
     synonyms:
@@ -2819,10 +3019,17 @@ entries:
         anilist-id: 20623
 
   # - title: 少年陰陽師
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
+
+  - title: '山田くんとLv999の恋をする'
+    synonyms:
+      - 'Yamada-kun to Lv999 no Koi wo Suru'
+    seasons:
+      - season: 1
+        anilist-id: 154965
 
   - title: 平家物語
     synonyms:
@@ -2922,7 +3129,7 @@ entries:
         anilist-id: 114085
 
   # - title: 怪物王女
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
   #     - season: 1
   #       anilist-id: null
@@ -2942,10 +3149,10 @@ entries:
         anilist-id: 114840
 
   # - title: 恋と嘘
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 恋は世界征服のあとで
     synonyms:
@@ -2962,10 +3169,10 @@ entries:
         anilist-id: 146676
 
   # - title: 恋愛暴君
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 悪役令嬢なのでラスボスを飼ってみました
     synonyms:
@@ -2982,10 +3189,10 @@ entries:
         anilist-id: 144323
 
   # - title: 惡の華
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 慎重勇者~この勇者が俺TUEEEくせに慎重すぎる~
     synonyms:
@@ -3020,16 +3227,16 @@ entries:
         anilist-id: 152677
 
   # - title: '攻殻機動隊 ARISE ALTERNATIVE ARCHITECTURE'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '攻殻機動隊 STAND ALONE COMPLEX'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '新サクラ大戦 the Animation'
     synonyms:
@@ -3046,10 +3253,10 @@ entries:
         anilist-id: 30
 
   # - title: '新機動戦記ガンダムW[ウイング]'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '旗揚! けものみち'
     synonyms:
@@ -3059,10 +3266,10 @@ entries:
         anilist-id: 107339
 
   # - title: 明日のよいち!
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 星方武侠アウトロースター
     synonyms:
@@ -3129,10 +3336,10 @@ entries:
         anilist-id: 139449
 
   # - title: '未来日記 (2011)'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 東のエデン
     synonyms:
@@ -3165,64 +3372,64 @@ entries:
         anilist-id: 142853
 
   # - title: '東京喰種[トーキョーグール]'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '模型戦士GUNPLA BUILDERS BEGINNING G'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 機動戦士Vガンダム
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 機動戦士Zガンダム
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 機動戦士ガンダム
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダム 0080 ポケットの中の戦争'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダム 0083 スターダストメモリー'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダム MS IGLOO: 1年戦争秘録'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダム THE ORIGIN 前夜 赤い彗星'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダム サンダーボルト'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '機動戦士ガンダム 水星の魔女'
     synonyms:
@@ -3236,64 +3443,64 @@ entries:
         start: 13
 
   # - title: '機動戦士ガンダム 第08MS小隊'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダム 鉄血のオルフェンズ'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 機動戦士ガンダム00
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 機動戦士ガンダムAGE
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 機動戦士ガンダムSEED
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダムSEED DESTINY'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダムUC[ユニコーン]'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '機動戦士ガンダムUC[ユニコーン] RE:0096'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 機動戦士ガンダムZZ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 機動新世紀ガンダムX
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 機動武闘伝Gガンダム
     synonyms:
@@ -3438,10 +3645,10 @@ entries:
         anilist-id: 125124
 
   # - title: 生徒会の一存
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 甲鉄城のカバネリ
     synonyms:
@@ -3465,10 +3672,10 @@ entries:
         anilist-id: 146850
 
   # - title: 異世界の聖機師物語
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '異世界チート魔術師[マジシャン]'
     synonyms:
@@ -3499,10 +3706,10 @@ entries:
         anilist-id: 127090
 
   # - title: 異世界食堂
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 異世界魔王と召喚少女の奴隷魔術
     synonyms:
@@ -3514,10 +3721,10 @@ entries:
         anilist-id: 117448
 
   # - title: 異種族レビュアーズ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 痛いのは嫌なので防御力に極振りしたいと思います.
     synonyms:
@@ -3572,10 +3779,10 @@ entries:
         anilist-id: 153406
 
   # - title: 神曲奏界ポリフォニカ
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 神様になった日
     synonyms:
@@ -3585,16 +3792,16 @@ entries:
         anilist-id: 118419
 
   # - title: "神様のメモ帳 It's the only NEET thing to do."
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '神田川JET GIRLS'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 神達に拾われた男
     synonyms:
@@ -3613,16 +3820,16 @@ entries:
         anilist-id: 126791
 
   # - title: 精霊の守り人
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 精霊幻想記
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 約束のネバーランド
     synonyms:
@@ -3634,10 +3841,10 @@ entries:
         anilist-id: 108725
 
   # - title: '終わりのセラフ Seraph of the end'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 終末のハーレム
     synonyms:
@@ -3661,10 +3868,10 @@ entries:
         anilist-id: 136934
 
   # - title: 美少女戦士セーラームーン
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 美鳥の日々
     synonyms:
@@ -3690,28 +3897,28 @@ entries:
         anilist-id: 146206
 
   # - title: 聖痕のクェイサー
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 舞-HiME
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 舞-乙HiME
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '艦隊これくしょん -艦これ-'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 色づく世界の明日から
     synonyms:
@@ -3728,22 +3935,22 @@ entries:
         anilist-id: 105932
 
   # - title: '落第騎士の英雄譚[キャバルリィ] A TALE OF WORST ONE'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 蒼天の拳
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 藍より青し
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 虚構推理
     synonyms:
@@ -3763,10 +3970,10 @@ entries:
         anilist-id: 103632
 
   # - title: 血界戦線
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 裏世界ピクニック
     synonyms:
@@ -3776,10 +3983,10 @@ entries:
         anilist-id: 116287
 
   # - title: '西の善き魔女 Astraea Testament'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 見える子ちゃん
     synonyms:
@@ -3790,6 +3997,7 @@ entries:
 
   - title: 解雇された暗黒兵士（30代）のスローなセカンドライフ
     synonyms:
+      - '解雇された暗黒兵士(30代)のスローなセカンドライフ'
       - 'Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life'
     seasons:
       - season: 1
@@ -3884,10 +4092,10 @@ entries:
         anilist-id: 131878
 
   # - title: '這いよれ! ニャル子さんW'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか?'
     synonyms:
@@ -3931,10 +4139,10 @@ entries:
         start: 29
 
   # - title: 遊☆戯☆王
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '遊☆戯☆王 デュエルモンスターズ'
     synonyms:
@@ -3952,22 +4160,22 @@ entries:
         anilist-id: 481
 
   # - title: 遊☆戯☆王ARC-V
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: "遊戯王5D's"
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: 遊戯王ゼアル
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 遊戯王デュエルモンスターズGX
     synonyms:
@@ -3990,10 +4198,10 @@ entries:
         anilist-id: 146210
 
   # - title: '銀魂[ぎんたま]'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: '鋼の錬金術師 (2009)'
     synonyms:
@@ -4095,16 +4303,16 @@ entries:
         anilist-id: 112609
 
   # - title: 魔法使いの嫁
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   # - title: '魔法使いの嫁 西の少年と青嵐の騎士'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 魔法使い黎明期
     synonyms:
@@ -4115,10 +4323,10 @@ entries:
         anilist-id: 133175
 
   # - title: 魔法少女プリティサミー(1996)
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 魔法戦士リウイ
     synonyms:
@@ -4180,10 +4388,10 @@ entries:
         anilist-id: 130588
 
   # - title: 魔装学園HxH
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
 
   - title: 黒の召喚士
     synonyms:
@@ -4193,7 +4401,7 @@ entries:
         anilist-id: 145260
 
   # - title: '黒神 The Animation'
-  #   synonyms: {  }
+  #   synonyms: [  ]
   #   seasons:
-  #     season: 1
-  #     anilist-db: null
+  #     - season: 1
+  #       anilist-id: null
