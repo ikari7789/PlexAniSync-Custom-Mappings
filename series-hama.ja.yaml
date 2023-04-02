@@ -2637,7 +2637,7 @@ entries:
       - season: 6
         anilist-id: 139630
 
-  - title: '僕の心のヤバイやつ'
+  - title: 僕の心のヤバイやつ
     synonyms:
       - 'Boku no Kokoro no Yabai Yatsu'
     seasons:
@@ -2888,9 +2888,9 @@ entries:
       - season: 1
         anilist-id: 122137
 
-  - title: '地獄楽'
+  - title: 地獄楽
     synonyms:
-      - 'Jigokuraku'
+      - Jigokuraku
     seasons:
       - season: 1
         anilist-id: 128893
@@ -2918,19 +2918,19 @@ entries:
   #     - season: 1
   #       anilist-id: null
 
-  - title: '天国大魔境'
-    synonyms:
-      - 'Tengoku Daimakyou'
-    seasons:
-      - season: 1
-        anilist-id: 155783
-
   - title: '天元突破 グレンラガン'
     synonyms:
       - 'Tengen Toppa Gurren Lagann'
     seasons:
       - season: 1
         anilist-id: 2001
+
+  - title: 天国大魔境
+    synonyms:
+      - 'Tengoku Daimakyou'
+    seasons:
+      - season: 1
+        anilist-id: 155783
 
   - title: 天地創造デザイン部
     synonyms:
@@ -3024,7 +3024,7 @@ entries:
   #     - season: 1
   #       anilist-id: null
 
-  - title: '山田くんとLv999の恋をする'
+  - title: 山田くんとLv999の恋をする
     synonyms:
       - 'Yamada-kun to Lv999 no Koi wo Suru'
     seasons:
@@ -3997,7 +3997,7 @@ entries:
 
   - title: 解雇された暗黒兵士（30代）のスローなセカンドライフ
     synonyms:
-      - '解雇された暗黒兵士(30代)のスローなセカンドライフ'
+      - 解雇された暗黒兵士(30代)のスローなセカンドライフ
       - 'Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life'
     seasons:
       - season: 1
