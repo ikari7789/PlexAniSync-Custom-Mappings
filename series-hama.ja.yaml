@@ -617,7 +617,7 @@ entries:
 
   - title: 'ReLIFE (2018)'
     synonyms:
-      - 'ReLIFE'
+      - ReLIFE
     seasons:
       - season: 1
         anilist-id: 21049
@@ -759,7 +759,7 @@ entries:
 
   - title: "Vivy -Fluorite Eye's Song-"
     synonyms:
-      - "Vivy: Fluorite Eye’s Song"
+      - 'Vivy: Fluorite Eye’s Song'
     seasons:
       - season: 1
         anilist-id: 128546
@@ -2358,9 +2358,9 @@ entries:
   #     - season: 1
   #       anilist-id: null
 
-  - title: マッシュル-MASHLE-
+  - title: 'マッシュル-MASHLE-'
     synonyms:
-      - 'MASHLE'
+      - MASHLE
     seasons:
       - season: 1
         anilist-id: 151801
