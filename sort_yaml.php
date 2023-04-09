@@ -31,7 +31,7 @@ $yaml['entries'] = array_map(function ($entry) {
     ];
 }, $yaml['entries']);
 
-$output = Yaml::dump($yaml, 5, 2);
+$output = Yaml::dump($yaml, 5, 2, Yaml::DUMP_EMPTY_ARRAY_AS_SEQUENCE);
 
 $output = preg_replace("/-\n +/m", '- ', $output);
 $output = preg_replace("/ +- title:/", "\n  - title:", $output);
