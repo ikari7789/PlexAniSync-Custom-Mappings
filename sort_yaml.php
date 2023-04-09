@@ -33,7 +33,7 @@ $yaml['entries'] = array_map(function ($entry) {
 
 $output = Yaml::dump($yaml, 5, 2, Yaml::DUMP_EMPTY_ARRAY_AS_SEQUENCE);
 
-$output = preg_replace("/-\n +/m", '- ', $output);
+$output = preg_replace("/( +)-\n +/m", '$1- ', $output);
 $output = preg_replace("/ +- title:/", "\n  - title:", $output);
 $output = preg_replace("/^entries:\n/m", "entries:", $output);
 $output = "---\n" . $output;
