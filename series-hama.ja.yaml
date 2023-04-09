@@ -916,6 +916,13 @@ entries:
       - season: 3
         anilist-id: 120851
 
+  - title: おとなりに銀河
+    synonyms:
+      - 'Otonari ni Ginga'
+    seasons:
+      - season: 1
+        anilist-id: 148098
+
   - title: おねがい☆ツインズ
     synonyms:
       - Onegai☆Twins
@@ -1048,6 +1055,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 97995
+
+  - title: この素晴らしい世界に爆焔を!
+    synonyms:
+      - 'Kono Subarashii Sekai ni Bakuen wo!'
+    seasons:
+      - season: 1
+        anilist-id: 150075
 
   - title: この素晴らしい世界に祝福を!
     synonyms:
@@ -2331,11 +2345,25 @@ entries:
       - season: 19
         anilist-id: 112153
 
+  - title: マイホームヒーロー
+    synonyms:
+      - 'My Home Hero'
+    seasons:
+      - season: 1
+        anilist-id: 151189
+
   # - title: 'マギアレコード 魔法少女まどか☆マギカ外伝'
   #   synonyms: [  ]
   #   seasons:
   #     - season: 1
   #       anilist-id: null
+
+  - title: マッシュル-MASHLE-
+    synonyms:
+      - 'MASHLE'
+    seasons:
+      - season: 1
+        anilist-id: 151801
 
   - title: モブサイコ100
     synonyms:
@@ -2657,6 +2685,13 @@ entries:
       - season: 1
         anilist-id: 106319
 
+  - title: 六道の悪女たち
+    synonyms:
+      - 'Rokudou no Onna-tachi'
+    seasons:
+      - season: 1
+        anilist-id: 160442
+
   # - title: 冬のソナタ
   #   synonyms: [  ]
   #   seasons:
@@ -2702,6 +2737,13 @@ entries:
     seasons:
       - season: 1
         anilist-id: 140457
+
+  - title: 勇者が死んだ!
+    synonyms:
+      - 'Yuusha ga Shinda!'
+    seasons:
+      - season: 1
+        anilist-id: 148109
 
   - title: '勇者パーティーを追放されたビーストテイマー, 最強種の猫耳少女と出会う'
     synonyms:
@@ -3525,6 +3567,13 @@ entries:
       - season: 1
         anilist-id: 151252
 
+  - title: 江戸前エルフ
+    synonyms:
+      - 'Edomae Elf'
+    seasons:
+      - season: 1
+        anilist-id: 150957
+
   - title: 波よ聞いてくれ
     synonyms:
       - 'Nami yo Kiitekure'
@@ -3664,6 +3713,13 @@ entries:
       - season: 1
         anilist-id: 135806
 
+  - title: '異世界でチート能力を手にした俺は, 現実世界をも無双する~レベルアップは人生を変えた~'
+    synonyms:
+      - 'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta'
+    seasons:
+      - season: 1
+        anilist-id: 153845
+
   - title: 異世界のんびり農家
     synonyms:
       - 'Isekai Nonbiri Nouka'
@@ -3683,6 +3739,20 @@ entries:
     seasons:
       - season: 1
         anilist-id: 101547
+
+  - title: '異世界ワンターンキル姉さん ~姉同伴の異世界生活はじめました~'
+    synonyms:
+      - 'Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita'
+    seasons:
+      - season: 1
+        anilist-id: 146234
+
+  - title: 異世界召喚は二度目です
+    synonyms:
+      - 'Isekai Shoukan wa Nidome desu'
+    seasons:
+      - season: 1
+        anilist-id: 140754
 
   - title: 異世界美少女受肉おじさんと
     synonyms:
@@ -3796,6 +3866,13 @@ entries:
   #   seasons:
   #     - season: 1
   #       anilist-id: null
+
+  - title: 神無き世界のカミサマ活動
+    synonyms:
+      - 'Kaminaki Sekai no Kamisama Katsudou'
+    seasons:
+      - season: 1
+        anilist-id: 148048
 
   # - title: '神田川JET GIRLS'
   #   synonyms: [  ]
@@ -4063,6 +4140,13 @@ entries:
       - season: 1
         anilist-id: 153629
 
+  - title: '転生貴族の異世界冒険録 ~自重を知らない神々の使徒~'
+    synonyms:
+      - 'Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito'
+    seasons:
+      - season: 1
+        anilist-id: 153332
+
   - title: '転生賢者の異世界ライフ~第二の職業を得て, 世界最強になりました~'
     synonyms:
       - 'Tensei Kenja no Isekai Life: Daini no Shokugyo wo Ete, Sekai Saikyou ni Narimashita'
@@ -4327,6 +4411,13 @@ entries:
   #   seasons:
   #     - season: 1
   #       anilist-id: null
+
+  - title: 魔法少女マジカルデストロイヤーズ
+    synonyms:
+      - 'Mahou Shoujo Magical Destroyers'
+    seasons:
+      - season: 1
+        anilist-id: 134131
 
   - title: 魔法戦士リウイ
     synonyms:
